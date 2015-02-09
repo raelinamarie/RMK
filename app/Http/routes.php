@@ -11,7 +11,13 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+Route::get('/',function (){
+    return view('index');
+});
+
+Route::get('/portfolio',function (){
+    return view('portfolio');
+});
 
 Route::get('home', 'HomeController@index');
 
