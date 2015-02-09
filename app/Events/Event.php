@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Marie\Events;
 
 abstract class Event {
 

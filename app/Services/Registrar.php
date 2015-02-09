@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace Marie\Services;
 
-use App\User;
+use Marie\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

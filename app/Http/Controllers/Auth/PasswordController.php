@@ -1,6 +1,6 @@
-<?php namespace App\Http\Controllers\Auth;
+<?php namespace Marie\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use Marie\Http\Controllers\Controller;
 use Illuminate\Contracts\Auth\Guard;
 use Illuminate\Contracts\Auth\PasswordBroker;
 use Illuminate\Foundation\Auth\ResetsPasswords;
