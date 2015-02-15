@@ -12,16 +12,17 @@
 */
 
 Route::get('/',function (){
-    return view('index');
+    return view('home');
 });
 
-Route::get('/portfolio',function (){
-    return view('portfolio');
+Route::get('portfolio',function (){
+    return view('pages.portfolio');
 });
 
-Route::get('home', 'HomeController@index');
+Route::get('about',function (){
+    return view('pages.about');
+});
 
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
+Route::get('contact',function (){
+    return view('pages.contact');
+});
