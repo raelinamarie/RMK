@@ -3,7 +3,7 @@
     @include('components.head')
 </head>
 <body>
-    <div class="row" id="main">
+    <div class="row">
         @include('layouts.navbar')
     </div>
     <div class="row" id="wrap">

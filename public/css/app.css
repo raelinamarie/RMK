@@ -2,6 +2,7 @@
 .container{
     margin:20px;
     padding:10px;
+    margin-bottom:4em;
 }
 .text-center{
     text-align: center;
@@ -125,7 +126,7 @@ body:before {
 }
 /*fonts and font sizing*/
 html {
-    font-family: Muli, sans-serif;
+    font-family: Muli, sans-serif, Volkhov, serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -135,28 +136,32 @@ body {
 .serif{
     font-family: Volkhov, serif !important;
 }
+.serif h1{
+    font-family: Volkhov, serif !important;
+    font-weight: 100;
+}
 .h1{
-    font-size: 5vw;
+    font-size: 3em;
 }
 .h2{
-    font-size: 4.0vw;
+    font-size: 2.5em;
 }
 .h3{
-    font-size: 3vw;
+    font-size: 2em;
 }
 .h4{
-    font-size: 2vw;
+    font-size: 1.5em;
 }
 .h5{
-    font-size: 1.5vw;
+    font-size: 1.3em;
 }
 .h6 {
-    font-size: 1vw;
+    font-size: 1em;
 }
 p,
 ul,
 li{
-    font-size: 4vw;
+    font-size: 25px;
 }
 /*colors*/
 a{
@@ -863,5 +868,28 @@ a:visited{
     }
     .nav a{
         color:#fff;
+    }
+    .h1{
+        font-size: 5vw;
+    }
+    .h2{
+        font-size: 4.0vw;
+    }
+    .h3{
+        font-size: 3vw;
+    }
+    .h4{
+        font-size: 2vw;
+    }
+    .h5{
+        font-size: 1.5vw;
+    }
+    .h6 {
+        font-size: 1vw;
+    }
+    p,
+    ul,
+    li{
+        font-size: 4vw;
     }
 }

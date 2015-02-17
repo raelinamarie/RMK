@@ -1,7 +1,9 @@
 @extends('layouts.main')
 @section('content')
 <div class="container col-md-8 col-md-offset-2 text-center">
-    <h1 class="serif">Raelina Marie Krikston</h1>
+    <div class="serif">
+        <h1>Raelina Marie Krikston</h1>
+    </div>
     <br>
     <h4><i>
             /rā/lēn/ä/ (ray-leen-ah);
