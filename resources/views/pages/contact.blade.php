@@ -1,13 +1,17 @@
 @extends('layouts.main')
 @section('content')
     <div class="container flexcontainer">
-        <div class="col-lg-2 col-xs-12 flex-center">
-            <i class="fa fa-cubes fa-5x"></i>
-        </div>
-        <div class="flex-container col-lg-8 col-xs-12">
-            <h1>"If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."</h1>
-            <br>
-            <h3><i>-Bruce Lee</i></h3>
+        <div class="col-lg-8 col-xs-12">
+                <h1><del>I"m available for freelance work!</del></h1>
+                <h3>I'm sorry, at this time I am occupied with other work and will not be available to start any new projects. You're more than welcome to send me an email and we can get the conversation started. Or if you just want to say hi.</h3>
+            </div>
+        <div class="col-xs-4 flex-center">
+            <button class="main">
+                <a href="/contact-form">
+                    <i class="fa fa-envelope"></i>
+                </a>
+                <b>Email Me</b>
+            </button>
         </div>
     </div>
 @stop
