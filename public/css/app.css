@@ -174,27 +174,6 @@ a:hover{
 a:visited{
     color:#000;
 }
-/*buttons*/
-.main{
-    padding:20px;
-    outline-color: #000;
-    outline-width: 2px;
-    box-shadow: none;
-    font-family: Muli;
-    font-size: 20px;
-    background-color: #fff;
-}
-.main:hover{
-    background-color: #b3a10d;
-    color: #fff;
-}
-main:hover a i{
-    color: #fff;
-}
-.main a{
-    color: #000;
-}
-
 /*bootstrap*/
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
     float: left;
