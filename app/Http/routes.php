@@ -12,19 +12,23 @@
 */
 
 Route::get('/',function (){
-    return view('home');
+    $view['title'] = 'title';
+    return view('home',$view);
 });
 
 Route::get('portfolio',function (){
-    return view('pages.portfolio');
+    $view['title'] = 'title';
+    return view('pages.portfolio',$view);
 });
 
 Route::get('about',function (){
-    return view('pages.about');
+    $view['title'] = 'title';
+    return view('pages.about',$view);
 });
 
 Route::get('contact',function (){
-    return view('pages.contact');
+    $view['title'] = 'title';
+    return view('pages.contact',$view);
 });
 
 Route::get('contact-form',function (){
