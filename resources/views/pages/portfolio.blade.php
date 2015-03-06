@@ -1,13 +1,80 @@
 @extends('layouts.main')
 @section('content')
-    <div class="flexcontainer container">
-        <div class="col-lg-2 col-xs-12 flex-center">
-            <i class="fa fa-diamond fa-5x"></i>
-        </div>
-        <div class="flex-container col-lg-8 col-xs-12">
-            <h1>"If you don't have many possessions, then you don't need to work all your life like a slave to sustain them, and therefore you have more time for yourself."</h1>
-            <br>
-            <h3><i>-President José "Pepe" Mujica</i></h3>
+    <!--thumbnail separater-->
+    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>DrawClerk</h2>
+            <p>Branding - Logotyping - App Design</p>
         </div>
     </div>
+    <!--thumbnail separater-->
+    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>Lifeloc</h2>
+            <p>App Design</p>
+        </div>
+    </div>
+    <!--thumbnail separater-->
+    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>Veiled Beauty</h2>
+            <p>Logotyping</p>
+        </div>
+    </div>
+    <!--thumbnail separater-->
+    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>BikeSurf</h2>
+            <p>Infographic Design - Branding - Web Design</p>
+        </div>
+    </div>
+    <!--thumbnail separater-->
+    <!--projects in the works
+    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>ShutterNote</h2>
+            <p>App Design - Logotyping - Branding</p>
+        </div>
+    </div>
+
+    ///project separater///
+
+        <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>Masqline</h2>
+            <p>Web Design</p>
+        </div>
+    </div>
+
+
+    ///project separater///
+
+        <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
+        <a class="thumbnail" href="#">
+            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        </a>
+        <div class="info-tag">
+            <h2>The Illest</h2>
+            <p>Web Design - App Design - Branding - Logotyping</p>
+        </div>
+    </div>
+    -->
 @stop
