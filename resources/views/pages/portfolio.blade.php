@@ -2,7 +2,7 @@
 @section('content')
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -12,7 +12,7 @@
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -22,7 +22,7 @@
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -32,7 +32,7 @@
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -43,7 +43,7 @@
     <!--thumbnail separater-->
     <!--projects in the works
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -55,7 +55,7 @@
     ///project separater///
 
         <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+       <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -68,7 +68,7 @@
     ///project separater///
 
         <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="/detail">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">

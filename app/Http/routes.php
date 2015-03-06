@@ -21,6 +21,11 @@ Route::get('portfolio',function (){
     return view('pages.portfolio',$view);
 });
 
+Route::get('detail',function (){
+    $view['title'] = 'title';
+    return view('pages.detail',$view);
+});
+
 Route::get('about',function (){
     $view['title'] = 'title';
     return view('pages.about',$view);
