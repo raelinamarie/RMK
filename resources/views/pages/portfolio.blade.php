@@ -2,8 +2,8 @@
 @section('content')
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="/detail">
-            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        <a class="thumbnail" href="/detail01">
+            <img class="img-responsive" src="http://i.imgur.com/huv16ML.png" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
             <h2>DrawClerk</h2>
@@ -12,17 +12,17 @@
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="/detail">
+        <a class="thumbnail" href="/detail02">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
-            <h2>Lifeloc</h2>
+            <h2>Vista Life Science</h2>
             <p>App Design</p>
         </div>
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="/detail">
+        <a class="thumbnail" href="/detail03">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
@@ -32,8 +32,8 @@
     </div>
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
-        <a class="thumbnail" href="/detail">
-            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+        <a class="thumbnail" href="/detail04">
+            <img class="img-responsive" src="http://i.imgur.com/rXxjEjM.png" alt="DrawClerk Logo">
         </a>
         <div class="info-tag">
             <h2>BikeSurf</h2>
