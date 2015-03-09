@@ -6,7 +6,7 @@
     <div class="row">
         @include('layouts.navbar')
     </div>
-    <div class="row" id="wrap">
+    <div class="container" id="wrap">
         @yield('content')
     </div>
 @include('components.footer')

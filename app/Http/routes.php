@@ -21,6 +21,22 @@ Route::get('portfolio',function (){
     return view('pages.portfolio',$view);
 });
 
+Route::get('detail01',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-drawclerk',$view);
+});
+Route::get('detail04',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-bikesurf',$view);
+});
+Route::get('detail02',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-poke',$view);
+});
+Route::get('detail03',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-veiledbeauty',$view);
+});
 Route::get('about',function (){
     $view['title'] = 'title';
     return view('pages.about',$view);

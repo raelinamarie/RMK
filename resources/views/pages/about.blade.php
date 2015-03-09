@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<div class="container col-md-8 col-md-offset-2 text-center">
+<div class="col-md-8 col-md-offset-2 text-center">
     <div class="serif">
         <h1>Raelina Marie Krikston</h1>
     </div>
