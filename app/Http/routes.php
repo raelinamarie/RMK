@@ -31,7 +31,7 @@ Route::get('detail04',function (){
 });
 Route::get('detail02',function (){
     $view['title'] = 'title';
-    return view('pages.detail-vistalife',$view);
+    return view('pages.detail-poke',$view);
 });
 Route::get('detail03',function (){
     $view['title'] = 'title';

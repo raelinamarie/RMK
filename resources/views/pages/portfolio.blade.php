@@ -13,14 +13,15 @@
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
         <a class="thumbnail" href="/detail02">
-            <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
+            <img class="img-responsive" src="http://i.imgur.com/jV3McVx.png" alt="Poke Logo">
         </a>
         <div class="info-tag">
-            <h2>Vista Life Science</h2>
-            <p>App Design</p>
+            <h2>Poke</h2>
+            <p>Logotyping</p>
         </div>
     </div>
     <!--thumbnail separater-->
+    <!--VEILED BEAUTY SECTION
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
         <a class="thumbnail" href="/detail03">
             <img class="img-responsive" src="http://placehold.it/600" alt="DrawClerk Logo">
@@ -30,6 +31,7 @@
             <p>Logotyping</p>
         </div>
     </div>
+    -->
     <!--thumbnail separater-->
     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 thumb container">
         <a class="thumbnail" href="/detail04">

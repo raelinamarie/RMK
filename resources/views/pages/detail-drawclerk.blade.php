@@ -4,8 +4,8 @@
     <div class="left-pad col-lg-6 col-xs-12 flex-center">
         <img class="img-responsive img-img img" src="http://i.imgur.com/O6hXaDQ.png" alt="DrawClerk App">
     </div>
+    <!-beginning of caption section-->
     <div class="col-lg-6 col-xs-12 flex-right right-pad">
-        <!-beginning of caption section-->
         <div class="sm-line text-right">
             <h1>
                 DrawClerk
