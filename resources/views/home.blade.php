@@ -3,6 +3,8 @@
 
 @section('content')
     <div class="flexcontainer container">
+
+        <!--Hey there, how's it going? I'm glad that you're taking the time to look through my code, but I'm sorry to say that it isn't the best example I can offer right now, check back later and prepare to be amazed :)-->
        {{--@include('partials.intro-quote')--}}
 
         <h1 class="fancy">
