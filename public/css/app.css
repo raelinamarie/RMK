@@ -1186,3 +1186,7 @@ a.thumbnail.active {
 .funfacts i{
     color: #ac2925;
 }
+.funfacts{
+    padding:10px;
+    margin-bottom:2em;
+}
