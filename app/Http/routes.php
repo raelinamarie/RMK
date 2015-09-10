@@ -12,17 +12,21 @@
 */
 
 Route::get('/',function (){
-    $view['title'] = 'title';
+    $view['title'] = 'RaelinaMarie';
     return view('home',$view);
 });
 
 Route::get('portfolio',function (){
-    $view['title'] = 'title';
+    $view['title'] = 'Portfolio';
     return view('pages.portfolio',$view);
+});
+Route::get('projects',function (){
+    $view['title'] = 'Projects';
+    return view('pages.projects',$view);
 });
 
 Route::get('detail01',function (){
-    $view['title'] = 'title';
+    $view['title'] = 'DrawClerk';
     return view('pages.detail-drawclerk',$view);
 });
 Route::get('detail04',function (){
@@ -36,6 +40,22 @@ Route::get('detail02',function (){
 Route::get('detail03',function (){
     $view['title'] = 'title';
     return view('pages.detail-veiledbeauty',$view);
+});
+Route::get('detail05',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-themappers',$view);
+});
+Route::get('detail06',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-entryletter',$view);
+});
+Route::get('detail07',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-themasqline',$view);
+});
+Route::get('detail08',function (){
+    $view['title'] = 'title';
+    return view('pages.detail-linda',$view);
 });
 Route::get('about',function (){
     $view['title'] = 'title';
