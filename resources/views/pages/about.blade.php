@@ -22,4 +22,24 @@
     <p>When I am not designing, I enjoy reading, painting, <a href="http://medium.com/@RaelinaMarie">writing,</a> riding my bike, discovering new cuisine, traveling and doing things in nature.</p>
     </div>
     </div>
+<div class="row">
+    <div class="flexcontainer">
+        <div class="funfacts">
+            <i class="fa fa-headphones"></i>
+            <a href="https://www.youtube.com/watch?v=BSKimd9EX7s">
+                What I'm Listening to
+            </a>
+        </div>
+        <div class="funfacts">
+            <i class="fa fa-paint-brush"></i>
+            <a href="http://www.boredpanda.com/family-sleeping-paper-art-la-siesta-jotaka/">My Latest Inspiration</a>
+        </div>
+        <div class="funfacts">
+            <i class="fa fa-book"></i>
+            <a href="https://en.wikipedia.org/wiki/The_White_Castle">
+                What I'm Reading
+            </a>
+        </div>
+    </div>
+</div>
 @stop

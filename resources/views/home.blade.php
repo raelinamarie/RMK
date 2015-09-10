@@ -20,16 +20,4 @@
         </h3>
     </div>
 
-    <div class="row">
-        <div class="flexcontainer">
-            <div class="funfacts">
-                <div class="col-xs-3">
-                    <i class="fa fa-headphones"></i>
-                    <a href="https://www.youtube.com/watch?v=BSKimd9EX7s">
-                        What I'm Listening to
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
 @stop
